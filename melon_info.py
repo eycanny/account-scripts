@@ -1,7 +1,7 @@
 """Print out all the melons in our inventory."""
 
 
-from melons import melon_names, melon_prices, melon_seedlessness 
+from melons import melon_names, melon_prices, melon_seedlessness, melon_flesh_color, melon_rind_color, melon_avg_weight 
 
 
 def print_melon(name, price, seedless):
