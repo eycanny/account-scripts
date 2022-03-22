@@ -1,4 +1,4 @@
-melon_names = {
+melons = {
     'Honeydew' : {
         'price' : 0.99,
         'seedlessness' : True,
